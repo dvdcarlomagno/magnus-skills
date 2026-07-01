@@ -7,6 +7,8 @@ Skills already in this repo are marked **live**. Others are authored locally and
 - **crystal-clear** — objective-locking interview before complex work
 - **cc** — `/cc` shortcut for crystal-clear
 - **mac-storage-cleanup** — Mac disk space retrospective + HTML report
+- **voicepal-document-expander** — inline expansion questions for drafts
+- **vercel-github-org-cli-deploy** — org GitHub repo → personal Vercel Hobby via GitHub Actions
 
 ## Batch 2 — productivity & clarity (high share value)
 
@@ -15,7 +17,6 @@ Skills already in this repo are marked **live**. Others are authored locally and
 | **prompt-master** | Universal prompt optimizer for any AI tool; versioned, battle-tested |
 | **frontend-slides** | Zero-dependency animated HTML decks from scratch or PPT |
 | **vitruvian-image-generator** | Distinctive visual style for idea visualization |
-| **voicepal-document-expander** | Inline expansion questions for drafts (pairs with Voicepal) |
 
 ## Batch 3 — builder & content (personal brand)
 
@@ -23,7 +24,6 @@ Skills already in this repo are marked **live**. Others are authored locally and
 |-------|-------------|
 | **create-linkedin-ready-post** | Davide's voice system — useful template for other builders |
 | **event-recap-slack-message** | Raycafé-style meetup debriefs (Cursor meetups, Birra&Build, etc.) |
-| **vercel-github-org-cli-deploy** | Org-repo → personal Vercel Hobby via GitHub Actions |
 
 ## Batch 4 — idea validation suite
 

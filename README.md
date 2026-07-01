@@ -12,6 +12,8 @@ Skills live under `skills/<name>/` with a required `SKILL.md`. Install individua
 npx skills add dvdcarlomagno/lab-skills/skills/crystal-clear
 npx skills add dvdcarlomagno/lab-skills/skills/mac-storage-cleanup
 npx skills add dvdcarlomagno/lab-skills/skills/cc
+npx skills add dvdcarlomagno/lab-skills/skills/voicepal-document-expander
+npx skills add dvdcarlomagno/lab-skills/skills/vercel-github-org-cli-deploy
 ```
 
 ### Cursor (manual)
@@ -29,6 +31,8 @@ ln -s ~/Lab/lab-skills/skills/mac-storage-cleanup ~/.cursor/skills/mac-storage-c
 | [crystal-clear](skills/crystal-clear/) | `/crystal-clear` | Interview until the objective is locked before building |
 | [cc](skills/cc/) | `/cc` | Shortcut alias for crystal-clear |
 | [mac-storage-cleanup](skills/mac-storage-cleanup/) | `/mac-storage-cleanup` | Mac disk retrospective with safe cleanup + HTML report |
+| [voicepal-document-expander](skills/voicepal-document-expander/) | explicit invoke | Voicepal-style expansion questions written into drafts |
+| [vercel-github-org-cli-deploy](skills/vercel-github-org-cli-deploy/) | on request | Org GitHub repo → personal Vercel Hobby via GitHub Actions |
 
 ## Roadmap (planned additions)
 
