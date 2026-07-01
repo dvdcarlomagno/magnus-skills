@@ -1,4 +1,4 @@
-# Lab Skills
+# Magnus Skills
 
 Public agent skill library by [Davide Carlomagno](https://github.com/dvdcarlomagno) — portable workflows for Cursor, Claude Code, and the [open skills ecosystem](https://skills.sh/).
 
@@ -9,19 +9,19 @@ Skills live under `skills/<name>/` with a required `SKILL.md`. Install individua
 ### Skills CLI (recommended)
 
 ```bash
-npx skills add dvdcarlomagno/lab-skills/skills/crystal-clear
-npx skills add dvdcarlomagno/lab-skills/skills/mac-storage-cleanup
-npx skills add dvdcarlomagno/lab-skills/skills/cc
-npx skills add dvdcarlomagno/lab-skills/skills/voicepal-document-expander
-npx skills add dvdcarlomagno/lab-skills/skills/vercel-github-org-cli-deploy
+npx skills add dvdcarlomagno/magnus-skills/skills/crystal-clear
+npx skills add dvdcarlomagno/magnus-skills/skills/mac-storage-cleanup
+npx skills add dvdcarlomagno/magnus-skills/skills/cc
+npx skills add dvdcarlomagno/magnus-skills/skills/voicepal-document-expander
+npx skills add dvdcarlomagno/magnus-skills/skills/vercel-github-org-cli-deploy
 ```
 
 ### Cursor (manual)
 
 ```bash
-git clone https://github.com/dvdcarlomagno/lab-skills.git ~/Lab/lab-skills
-ln -s ~/Lab/lab-skills/skills/crystal-clear ~/.cursor/skills/crystal-clear
-ln -s ~/Lab/lab-skills/skills/mac-storage-cleanup ~/.cursor/skills/mac-storage-cleanup
+git clone https://github.com/dvdcarlomagno/magnus-skills.git ~/Lab/magnus-skills
+ln -s ~/Lab/magnus-skills/skills/crystal-clear ~/.cursor/skills/crystal-clear
+ln -s ~/Lab/magnus-skills/skills/mac-storage-cleanup ~/.cursor/skills/mac-storage-cleanup
 ```
 
 ## Available skills
